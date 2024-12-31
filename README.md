@@ -20,10 +20,10 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 
 📌 Here are a few highlights from my GitHub repositories:
 
-- 🕷️ **[Web Crawling](#)**: Web Crawling System for Swiss Retailers - which retailer is the cheapest for fruits and vegetables? 
-- 🗣️ **[NLP Insights](#)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps?
-- 🌳 **[Energy Prediction](#)**: Forecasting energy consumptions.
-- 🚂 **[Data Warehouse and Data Lake](#)**: Analysis of Swiss transportation system basend on public data and deployed with AWS - how punctual are Swiss trains?
+- 🕷️ **[Web Crawling](https://github.com/zd-2902/cip-gemuese)**: Web Crawling System for Swiss Retailers - which retailer is the cheapest for fruits and vegetables? 
+- 🗣️ **[NLP Insights](https://github.com/zd-2902/hslu-cta03)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps?
+- 🌳 **[Energy Prediction](https://github.com/zd-2902/hslu-dae)**: Forecasting energy consumptions.
+- 🚂 **[Data Warehouse and Data Lake](https://github.com/zd-2902/hslu-dwh)**: Analysis of Swiss transportation system basend on public data and deployed with AWS - how punctual are Swiss trains?
 - ✈️ **[Mulhouse-Basel Airport](#)**: Descriptive and diagnostic analysis of airport Mulhouse-Basel Airport - how many passengers and flights?
 
 Explore my [repositories](https://github.com/zd-2902?tab=repositories) to see what I'm currently working on! 💡
@@ -32,7 +32,7 @@ Explore my [repositories](https://github.com/zd-2902?tab=repositories) to see wh
 
 Feel free to reach out or collaborate – I love working with curious minds. 🌟
 
-- 📬 [**Email**]:zoran96_@hotmail.com 
+- 📬 [**Email**]zoran96_@hotmail.com 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)
 
 ---

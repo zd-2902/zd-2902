@@ -24,15 +24,16 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 - 🕷️ **[Web Crawling](https://github.com/zd-2902/cip-gemuese)**: Web Crawling System for Swiss Retailers - which retailer is the cheapest for fruits and vegetables? 
 - 🗣️ **[NLP Insights](https://github.com/zd-2902/hslu-cta03)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps?
 - 🌳 **[Energy Prediction](https://github.com/zd-2902/hslu-dae)**: Forecasting energy consumptions.
-- 🚂 **[Data Warehouse and Data Lake](https://github.com/zd-2902/hslu-dwh)**: Analysis of Swiss transportation system basend on public data and deployed with AWS - how punctual are Swiss trains?
-- ✈️ **[Mulhouse-Basel Airport](#)**: Descriptive and diagnostic analysis of airport Mulhouse-Basel Airport - how many passengers and flights?
+- 🚂 **[Data Warehouse and Data Lake](https://github.com/zd-2902/hslu-dwh)**: Analysis of Swiss transportation system basend on public data and deployed with AWS.
 
 Explore my [repositories](https://github.com/zd-2902?tab=repositories) to see what I'm currently working on! 💡
 
 # 📊Business Intelligence
-[**Football Analytics**]()
-[**Mulhouse-Basel Airport**](https://maphslu.shinyapps.io/Basel/)
-[**Swiss railwaysystem**](https://public.tableau.com/app/profile/zoran.dobrosavljevic5387/viz/shared/7DYH72KRK)
+[**Football Analytics**](https://abenaamanfo.shinyapps.io/Player_Valuations/): Valuations of football players - which players are the most expensive?
+
+[**Mulhouse-Basel Airport**](https://maphslu.shinyapps.io/Basel/): Descriptive and diagnostic analysis of airport Mulhouse-Basel Airport - how many passengers and flights?
+
+[**Swiss railway system**](https://public.tableau.com/app/profile/zoran.dobrosavljevic5387/viz/shared/7DYH72KRK): How punctual are Swiss trains?
 
 ## 🎯 Let's Connect!
 

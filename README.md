@@ -26,14 +26,14 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 - 🚂 **[Data Warehouse and Data Lake](#)**: Analysis of Swiss transportation system basend on public data and deployed with AWS - how punctual are Swiss trains?
 - ✈️ **[Mulhouse-Basel Airport](#)**: Descriptive and diagnostic analysis of airport Mulhouse-Basel Airport - how many passengers and flights?
 
-Explore my **[repositories]**(https://github.com/zd-2902?tab=repositories) to see what I'm currently working on! 💡
+Explore my [repositories](https://github.com/zd-2902?tab=repositories) to see what I'm currently working on! 💡
 
 ## 🎯 Let's Connect!
 
 Feel free to reach out or collaborate – I love working with curious minds. 🌟
 
 - 📬 **Email**: zoran96_@hotmail.com 
-- 💼 **LinkedIn**: [(https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)]
+- 💼 **LinkedIn**:[(https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)]
 
 ---
 

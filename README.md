@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to My Data Science World! 🌐
 
-Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in uncovering insights from data and turning them into actionable strategies. 📊✨
+Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in uncovering insights from data and turning them into actionable strategies. Based on and with data to an approximate realization of nature and truth. 📊✨
 
 ## 🚀 About Me
 
@@ -20,13 +20,13 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 
 📌 Here are a few highlights from my GitHub repositories:
 
-# 🧠 Machine Learning and Co.
+# 🧠 Machine Learning
 - 🕷️ **[Web Crawling](https://github.com/zd-2902/cip-gemuese)**: Web Crawling System for Swiss Retailers - which retailer is the cheapest for fruits and vegetables? 
 - 🗣️ **[NLP Insights](https://github.com/zd-2902/hslu-cta03)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps?
 - 🌳 **[Energy Prediction](https://github.com/zd-2902/hslu-dae)**: Forecasting energy consumptions.
 - 🚂 **[Data Warehouse and Data Lake](https://github.com/zd-2902/hslu-dwh)**: Analysis of Swiss transportation system basend on public data and deployed with AWS.
 
-Explore my [repositories](https://github.com/zd-2902?tab=repositories) to see what I'm currently working on! 💡
+Explore my [repositories](https://github.com/zd-2902?tab=repositories)💡
 
 # 📊Business Intelligence
 [**Football Analytics**](https://abenaamanfo.shinyapps.io/Player_Valuations/): Valuations of football players - which players are the most expensive?

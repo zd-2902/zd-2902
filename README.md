@@ -14,7 +14,6 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 - **Languages**: Python 🐍 | R 📊 | SQL 🛢️  
 - **Libraries & Frameworks**: TensorFlow 🤖 | PyTorch 🔥 | Pandas 🐼 | Scikit-learn 🎯 | Scpacy    
 - **Visualization**: Matplotlib 📉 | Seaborn 🌊 | Power BI 🖥️  | Tableau 🖥️
-- **Big Data**: Spark ⚡ 
 - **Other Cool Stuff**:  AWS ☁️ | RPA Microsoft PowerAutomate 🤖
 
 ## 🌍 My Projects
@@ -34,7 +33,7 @@ Explore my **[repositories]**([https://github.com/zd-2902?tab=repositories]) to 
 Feel free to reach out or collaborate – I love working with curious minds. 🌟
 
 - 📬 **Email**: zoran96_@hotmail.com 
-- 💼 **LinkedIn**: [[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/))  
+- 💼 **LinkedIn**: [(https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)]
 
 ---
 

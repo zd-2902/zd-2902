@@ -21,11 +21,12 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 
 📌 Here are a few highlights from my GitHub repositories:
 
-- 🔮 **[Future Forecasts](#)**: Predictive analytics for market trends.  
-- 📜 **[NLP Insights](#)**: Sentiment analysis and text summarization tools.  
-- 🌳 **[AI for Good](#)**: Projects that combine AI with social impact.  
+- 🔮 **[Web Crawling](#)**: Web Crawling System for Swiss Retailers - which retailer is the cheapest for fruits and vegetables? 
+- 📜 **[NLP Insights](#)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps?
+- 🌳 **[Energy Prediction](#)**: Forecasting energy consumptions.
+- 📜 **[Data Warehouse and Data Lake](#)**: Analysis of Swiss transportation system basend on public data and deployed with AWS - how punctual are Swiss trains?
 
-Explore my [repositories](https://github.com/your-username?tab=repositories) to see what I'm currently working on! 💡
+Explore my [repositories]([https://github.com/zd-2902]) to see what I'm currently working on! 💡
 
 ## 🎯 Let's Connect!
 

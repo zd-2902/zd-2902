@@ -13,9 +13,9 @@ Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in
 
 - **Languages**: Python 🐍 | R 📊 | SQL 🛢️  
 - **Libraries & Frameworks**: TensorFlow 🤖 | PyTorch 🔥 | Pandas 🐼 | Scikit-learn 🎯 | Scpacy    
-- **Visualization**: Matplotlib 📉 | Seaborn 🌊 | Power BI 🖥️  
+- **Visualization**: Matplotlib 📉 | Seaborn 🌊 | Power BI 🖥️  | Tableau 🖥️
 - **Big Data**: Spark ⚡ 
-- **Other Cool Stuff**:  AWS ☁️ | RPA PowerAutomate 🤖
+- **Other Cool Stuff**:  AWS ☁️ | RPA MIcrosoft PowerAutomate 🤖
 
 ## 🌍 My Projects
 

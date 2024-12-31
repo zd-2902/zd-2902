@@ -22,9 +22,9 @@ Hi there! I'm Zoki, a passionate **Data Scientist** with advanced experience in 
 
 ## 🧠 Machine Learning
 - 🕷️ **[Web Crawling](https://github.com/zd-2902/cip-gemuese)**: Web Crawling System for Swiss Retailers - which retailer is the cheapest for fruits and vegetables? 
-- 🗣️ **[NLP Insights](https://github.com/zd-2902/hslu-cta03)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps?
-- 🌳 **[Energy Prediction](https://github.com/zd-2902/hslu-dae)**: Forecasting energy consumptions.
-- 🚂 **[Data Warehouse and Data Lake](https://github.com/zd-2902/hslu-dwh)**: Analysis of Swiss transportation system basend on public data and deployed with AWS.
+- 🗣️ **[NLP Insights](https://github.com/zd-2902/hslu-cta03)**: Sentiment analysis, topic modeling, text summarization and RAG system for clean tech data - are there any innovation gaps? (*private*)
+- 🌳 **[Energy Prediction](https://github.com/zd-2902/Energy-Prediction)**: Forecasting energy consumptions.
+- 🚂 **[Data Warehouse and Data Lake](https://github.com/zd-2902/Swiss-Punctuality-Train)**: Analysis of Swiss transportation system basend on public data and deployed with AWS.
 
 Explore my [repositories](https://github.com/zd-2902?tab=repositories)💡
 
@@ -39,7 +39,6 @@ Explore my [repositories](https://github.com/zd-2902?tab=repositories)💡
 
 Feel free to reach out or collaborate – I love working with curious minds. 🌟
 
-- 📬 [**Email**](zoran96_@hotmail.com)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)
 
 ---

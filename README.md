@@ -32,8 +32,8 @@ Explore my [repositories](https://github.com/zd-2902?tab=repositories) to see wh
 
 Feel free to reach out or collaborate – I love working with curious minds. 🌟
 
-- 📬 **Email**: zoran96_@hotmail.com 
-- 💼 **LinkedIn**:[(https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)]
+- 📬 [**Email**]:zoran96_@hotmail.com 
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/zoran-dobrosavljevic-b00600175/)
 
 ---
 

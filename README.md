@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to My Data Science World! 🌐
 
-Hi there! I'm Zoran, a passionate **Data Scientist** with advanced experience in uncovering insights from data and turning them into actionable strategies. Based on and with data to an approximate realization of nature and truth. 📊✨
+Hi there! I'm Zoki, a passionate **Data Scientist** with advanced experience in uncovering insights from data and turning them into actionable strategies. Based on and with data to an approximate realization of nature and truth. 📊✨
 
 ## 🚀 About Me
 
